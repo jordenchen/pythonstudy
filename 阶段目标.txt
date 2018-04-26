@@ -1,0 +1,13 @@
+title:2018香料市场行情盘点及市场预测
+keywords:香料市场，中药香料，香料类中药材
+description:2018年开年以来，玉林香料市场行情不容乐观，70%的品种行情处于下跌状态。后市香料市场将走向何处？商家又如何对待当前行情？康美中药网市场分析师将一一道来。
+
+1、http://www.kmzyw.com.cn/jiage/resouces/jsp/price_history_today_sc_list.jsp 获取特定品种的又哪些市场
+id: 0087-0002
+site: 亳州
+
+http://www.kmzyw.com.cn/yaocai/data/price_history_list.jsp
+drug_id: 0002-0001
+
+http://www.kmzyw.com.cn/jiage/history_price_0002-0001-01.html
+

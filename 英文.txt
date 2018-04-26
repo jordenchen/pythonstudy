@@ -1,0 +1,72 @@
+maliciously 英[mə'lɪʃəslɪ]
+美[mə'lɪʃəslɪ]
+adv.    有敌意地;
+[例句]He maliciously damaged a car with a baseball bat
+他用棒球棒恶意损毁了一辆汽车。
+
+demonstrate
+英 [ˈdemənstreɪt]   美 [ˈdɛmənˌstret]  
+vt.
+论证;证明，证实;显示，展示;演示，说明
+vi.
+示威游行
+
+
+inherently
+英 [ɪnˈhɪərəntlɪ]   美 [ɪnˈhɪrəntlɪ]  
+adv.
+天性地，固有地
+ADJ 内在的;固有的;生来就有的 
+The inherent qualities of something are the necessary and natural parts of it.
+Stress is an inherent part of dieting.
+节食必定会带来压力。
+
+inherently
+Aeroplanes are not inherently dangerous...
+飞机本身并不危险。
+
+War is inherently a dirty business.
+战争与生俱来就是肮脏的。
+
+
+hierarchical data
+分层数据;层次数据
+hierarchical
+英 [ˌhaɪəˈrɑ:kɪkl]   美 [ˌhaɪəˈrɑ:rkɪkl]  
+adj.
+分层的;按等级划分的，等级（制度）的
+
+interactions
+英 [ɪntə'rækʃnz]   美 [ɪntə'rækʃnz]  
+n.
+互动;一起活动( interaction的名词复数 );合作;互相影响
+
+
+
+nested
+英 [nestɪd]   美 [nestɪd]  
+adj.
+嵌套的
+v.
+筑巢( nest的过去式和过去分词 )
+
+
+end up<非正>结束; 最终成为[变得]; 最后处于
+
+
+non-blocking不闭塞的
+
+iterate重复; 反复申明
+recursively递归地
+
+sophisticated复杂的; 精致的; 富有经验的; 深奥微妙的; 使变得世故; 使迷惑; 篡改(sophisticate的过去分词形式)
+specification规格; 说明书; 详述
+
+subset子集
+abbreviated简短的，仅可蔽体的，小型的; 缩略; 使简短( abbreviate的过去式和过去分
+abbreviated
+英 [ə'bri:vɪeɪtɪd]   美 [ə'bri:vɪeɪtɪd]  
+adj.
+简短的，仅可蔽体的，小型的
+v.
+缩略;使简短( abbreviate的过去式和过去分词 );缩简;使用缩写词

@@ -1,0 +1,1 @@
+python有三种方法解析XML，SAX，DOM，以及ElementTree:
